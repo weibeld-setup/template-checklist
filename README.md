@@ -28,13 +28,11 @@
    ```bash
    echo foo
    ```
-1. \<See this image:>
+1. \<See this image:><br />
+   ![Image](res/image.png)
+1. \<Done>
 
-    ![Image](res/image.png)
-
-1. Foo
-
-> **Note:** foo bar.
+> **Note:** \<foo bar>.
 
 [↑ Top](#contents)
 
