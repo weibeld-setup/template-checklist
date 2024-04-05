@@ -9,11 +9,12 @@
 
 ## Contents
 
-<!-- Vim plugin: https://github.com/mzlogin/vim-markdown-toc                 -->
-<!-- Set: :let g:vmt_list_item_char = '- [ ]'                                -->
-<!-- Effect: ToC is automatically generated on save                          -->
+<!-- 1. Vim plugin: https://github.com/mzlogin/vim-markdown-toc              -->
+<!-- 2. Remove:     "<DELETE-ME>"                                            -->
+<!-- 3. Set:        :let g:vmt_list_item_char = '- [ ]'                      -->
+<!-- 4. Save:       ToC is automatically generated on saving of file         -->
 
-<!-- vim-markdown-toc GFM -->
+<!-- <DELETE-ME>vim-markdown-toc GFM -->
 
 - [ ] [1. \<Normal item>](#1-normal-item)
 - [ ] [2. \<Repo reference item>](#2-repo-reference-item)
@@ -27,6 +28,11 @@
    ```bash
    echo foo
    ```
+1. \<See this image:>
+
+    ![Image](res/image.png)
+
+1. Foo
 
 > **Note:** foo bar.
 
