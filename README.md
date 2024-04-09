@@ -41,6 +41,6 @@
 ![GitHub Repo: Install](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo-install.svg)
 ![GitHub Repo: Settings](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo-settings.svg)
 
-👉 [**weibeld-setup/_\<repo-name>_**](https://github.com/weibeld-setup/)
+✅ [**weibeld-setup/_\<repo-name>_**](https://github.com/weibeld-setup/)
 
 [↑ Top](#contents)
