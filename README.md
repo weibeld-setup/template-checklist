@@ -1,4 +1,4 @@
-# Checklist: \<Object>
+# Setup: \<Object>
 
 ![macOS](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/macos.svg)
 ![Linux](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/linux.svg)
